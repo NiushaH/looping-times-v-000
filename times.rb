@@ -11,6 +11,3 @@ jewels_in_bag = 100
   end
 end
 
-
-
-
